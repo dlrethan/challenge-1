@@ -7,8 +7,6 @@ I also made sure that the sematic structure of the html and css was easily reada
 
 # Screenshot Of Site
 
-! [Website] (Assets\images\horiseon-website.png)
-
 ## Link to Site
 
 https://dlrethan.github.io/challenge-1/
