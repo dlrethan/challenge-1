@@ -1,4 +1,4 @@
-# Challenge 1
+# Horiseon now with more Efficient Code!
 
 ## About
 
